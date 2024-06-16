@@ -20,9 +20,8 @@ We are currently at the 85% stage of android development. Due to a little proble
 # Development Roadmap
 1. Retrofit
 2. Datastore
-3. Navigation Component
-4. ViewModel
-5. Paging
+3. ViewModel
+4. Paging
 
 # Features
 1. Login
