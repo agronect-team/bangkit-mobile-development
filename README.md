@@ -17,11 +17,12 @@ We are currently at the 85% stage of android development. Due to a little proble
 
 # Screenshots
 
-# Development Roadmap
-1. Retrofit
-2. Datastore
-3. ViewModel
-4. Paging
+# Development Roadmap / Tools
+1. Retrofit : a library for making HTTP request
+2. Datastore : Setup DataStore for storing user preferences or cached data.
+3. ViewModel : ViewModel is part of Android's Architecture Components and is used to keep the UI data separate from the Activity/Fragment lifecycle, thereby promoting a clean architecture.
+4. Paging : The Paging library helps you load and display large data sets in pages, which is useful for handling large data in sharing page that need to be loaded gradually and efficiently
+5. Material Components : Modern and responsive UI design
 
 # Features
 1. Login
