@@ -6,13 +6,20 @@
 
 We are currently at the 85% stage of android development. Due to a little problem when rebase / conflict between 2 branches, so we deleted the repository. We are currently working together and you can see the progress on the following temporary github link
 
-**Project Description**
+**https://github.com/MuhammadRizky60/Capstone-Final**
 
-**Screenshots**
+# Project Description
 
-**Development Roadmap**
+# Screenshots
 
-**Features**
+# Development Roadmap
+1. Retrofit
+2. Datastore
+3. Navigation Component
+4. ViewModel
+5. Paging
+
+# Features
 1. Login
 2. Register
 3. Profile
@@ -20,8 +27,9 @@ We are currently at the 85% stage of android development. Due to a little proble
 5. Home and various plant classification menu
 6. Classification History 
 
-**Requirements**
+# Requirements
+1. Android Studio Jellyfish
+2. Emulator / external device
 
-**Installation**
+# Installation
 
-https://github.com/MuhammadRizky60/Capstone-Final
