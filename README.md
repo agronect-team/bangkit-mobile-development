@@ -16,6 +16,10 @@ We are currently at the 85% stage of android development. Due to a little proble
 # Project Description
 
 # Screenshots
+![image](https://github.com/agronect-team/bangkit-mobile-development/assets/127605029/abd2ccd4-2743-4d88-a238-b73db874e56a)
+![image](https://github.com/agronect-team/bangkit-mobile-development/assets/127605029/af569df9-61f4-486c-8744-be209e05ab48)
+![image](https://github.com/agronect-team/bangkit-mobile-development/assets/127605029/85769b34-c9bb-4971-95f3-2839e0e26750)
+
 
 # Development Roadmap / Tools
 1. Retrofit : a library for making HTTP request
