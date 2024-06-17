@@ -16,9 +16,16 @@ We are currently at the 85% stage of android development. Due to a little proble
 # Project Description
 
 # Screenshots
-![image](https://github.com/agronect-team/bangkit-mobile-development/assets/127605029/abd2ccd4-2743-4d88-a238-b73db874e56a)
-![image](https://github.com/agronect-team/bangkit-mobile-development/assets/127605029/af569df9-61f4-486c-8744-be209e05ab48)
-![image](https://github.com/agronect-team/bangkit-mobile-development/assets/127605029/85769b34-c9bb-4971-95f3-2839e0e26750)
+![Screenshot_2024-06-17-19-34-32-678_com example agronect](https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/acf98e4a-4731-4782-bf08-e80f2183524a)
+![Screenshot_2024-06-17-19-35-16-980_com example agronect](https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/d6ab9859-6a67-4b7c-adb8-a516d80db444)
+![Screenshot_2024-06-17-19-35-18-856_com example agronect](https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/be088549-b41e-4382-a9aa-7d1397740005)
+![Screenshot_2024-06-17-19-35-46-774_com example agronect](https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/73672983-7bb5-4a32-8585-a70e9006f69b)
+![Screenshot_2024-06-17-19-35-51-349_com example agronect](https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/7993d362-affc-40da-b3d7-b463c2c730f0)
+![Screenshot_2024-06-17-19-38-22-495_com example agronect](https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/28b33653-2443-4f8b-9cc6-aea326e54402)
+![Screenshot_2024-06-17-19-37-42-875_com example agronect](https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/6e3e26cf-a669-491a-a4a7-22a60ff4ddaa)
+![Screenshot_2024-06-17-19-35-56-947_com example agronect](https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/99aa1be2-a3f9-4d20-956b-bf466c83d920)
+![Screenshot_2024-06-17-19-36-00-274_com example agronect](https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/5d00e811-09f6-448c-ad87-5952983d86a6)
+
 
 
 # Development Roadmap / Tools
