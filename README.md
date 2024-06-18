@@ -9,7 +9,7 @@
 6. Benedictus Irvanda Nugroho – Universitas Pembangunan Nasional "Veteran" Yogyakarta – (MD) A297D4KY3818
 7. Muhammad Rizky – Universitas Pembangunan Nasional "Veteran" Yogyakarta – (MD) A297D4KY3817
 
-We are currently at the 85% stage of android development. Due to a little problem when rebase / conflict between 2 branches, so we deleted the repository. We are currently working together and you can see the progress on the following temporary github link or on the **master** branch
+**We are currently at the 85% stage of android development. Due to a little problem when rebase / conflict between 2 branches, so we deleted the previous repository. We are currently working together and you can see the progress on the following temporary github link or on the master branch**
 
 **https://github.com/MuhammadRizky60/Capstone-Final**
 
@@ -56,6 +56,7 @@ We are currently at the 85% stage of android development. Due to a little proble
 # Requirements
 1. Android Studio Jellyfish
 2. Emulator / external device
+3. Android 7, but recommended on Android 9 or above
 
 # Installation
 
