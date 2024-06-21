@@ -18,7 +18,7 @@
 # Screenshots
 
 <img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/acf98e4a-4731-4782-bf08-e80f2183524a" alt="Screenshot_2024-06-17-19-34-32-678_com example agronect" width="200">
-
+  
 <img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/d6ab9859-6a67-4b7c-adb8-a516d80db444" alt="Screenshot_2024-06-17-19-35-16-980_com example agronect" width="200">
 
 <img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/be088549-b41e-4382-a9aa-7d1397740005" alt="Screenshot_2024-06-17-19-35-18-856_com example agronect" width="200">
@@ -59,4 +59,13 @@
 3. Android 7, but recommended on Android 9 or above
 
 # Installation
+1. Clone this Project to your Computer
+git clone [https://github.com/Diabetless/mobile-development.git](https://github.com/agronect-team/bangkit-mobile-development/tree/master)
+or you can use Android Studio
+File > New > Project from Version Control …
 
+2. Open the Project in your Android Studio
+Open Android Studio and select open an existing project.
+
+3. Run Project in Android Studio
+Wait for Gradle Build to Finish and finally press the Run > Run ‘app’. Now the app has been installed in your phone / emulator. Make sure that you have configured your android device or emulator
