@@ -18,24 +18,20 @@
 # Screenshots
 
 <img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/acf98e4a-4731-4782-bf08-e80f2183524a" alt="Screenshot_2024-06-17-19-34-32-678_com example agronect" width="200">
-  
-<img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/d6ab9859-6a67-4b7c-adb8-a516d80db444" alt="Screenshot_2024-06-17-19-35-16-980_com example agronect" width="200">
-
+<img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/4beb21a3-13e7-4107-88ec-7e4c78f4b1ee" alt="WhatsApp Image 2024-06-20 at 14 14 00" width="200">
 <img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/be088549-b41e-4382-a9aa-7d1397740005" alt="Screenshot_2024-06-17-19-35-18-856_com example agronect" width="200">
-
-<img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/73672983-7bb5-4a32-8585-a70e9006f69b" alt="Screenshot_2024-06-17-19-35-46-774_com example agronect" width="200">
-
-<img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/7993d362-affc-40da-b3d7-b463c2c730f0" alt="Screenshot_2024-06-17-19-35-51-349_com example agronect" width="200">
-
-<img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/28b33653-2443-4f8b-9cc6-aea326e54402" alt="Screenshot_2024-06-17-19-38-22-495_com example agronect" width="200">
-
+<img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/02eaf216-c5a8-4364-9764-45149bd3d632" alt="WhatsApp Image 2024-06-20 at 14 02 49" width="200">
+<img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/72a0c5e7-442e-46ee-a1b9-00a861fe65ea" alt="WhatsApp Image 2024-06-20 at 14 02 50" width="200">
+<img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/bf8da594-b1b7-4bdb-9a87-8c9bbf241de1" alt="WhatsApp Image 2024-06-21 at 02 07 22" width="200">
+<img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/d1c64546-7294-42cc-b49e-7eb5c1056bbe" alt="WhatsApp Image 2024-06-21 at 02 07 22" width="200">
+<img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/e0bd4855-11a3-432c-8e97-509ea2e2d3e5" alt="WhatsApp Image 2024-06-21 at 02 07 22" width="200">
+<img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/3fd6f8ef-d0b4-438e-8445-646ec3071d5c" alt="WhatsApp Image 2024-06-20 at 17 48 04" width="200">
+<img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/fa6aa6bf-224e-4d79-907e-b29c108c917d" alt="WhatsApp Image 2024-06-20 at 17 55 58" width="200">
+<img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/b774a9f0-127d-4b6e-8dec-9851294b047f" alt="WhatsApp Image 2024-06-20 at 17 50 59" width="200">
 <img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/6e3e26cf-a669-491a-a4a7-22a60ff4ddaa" alt="Screenshot_2024-06-17-19-37-42-875_com example agronect" width="200">
-
-<img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/99aa1be2-a3f9-4d20-956b-bf466c83d920" alt="Screenshot_2024-06-17-19-35-56-947_com example agronect" width="200">
-
+<img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/41839026-c558-475c-905c-86aa75ce073d" alt="WhatsApp Image 2024-06-20 at 16 57 20" width="200">
 <img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/5d00e811-09f6-448c-ad87-5952983d86a6" alt="Screenshot_2024-06-17-19-36-00-274_com example agronect" width="200">
 
-![WhatsApp Image 2024-06-20 at 17 48 04_00cf9215](https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/044826bc-babe-4a77-a184-98a8a8379fad)
 
 
 
