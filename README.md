@@ -28,6 +28,7 @@
 <img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/3fd6f8ef-d0b4-438e-8445-646ec3071d5c" alt="WhatsApp Image 2024-06-20 at 17 48 04" width="200">
 <img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/fa6aa6bf-224e-4d79-907e-b29c108c917d" alt="WhatsApp Image 2024-06-20 at 17 55 58" width="200">
 <img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/b774a9f0-127d-4b6e-8dec-9851294b047f" alt="WhatsApp Image 2024-06-20 at 17 50 59" width="200">
+<img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/90de4e18-6208-45ff-8f2b-a86969edda21" alt="WhatsApp Image 2024-06-20 at 17 50 59" width="200">
 <img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/6e3e26cf-a669-491a-a4a7-22a60ff4ddaa" alt="Screenshot_2024-06-17-19-37-42-875_com example agronect" width="200">
 <img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/41839026-c558-475c-905c-86aa75ce073d" alt="WhatsApp Image 2024-06-20 at 16 57 20" width="200">
 <img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/5d00e811-09f6-448c-ad87-5952983d86a6" alt="Screenshot_2024-06-17-19-36-00-274_com example agronect" width="200">
