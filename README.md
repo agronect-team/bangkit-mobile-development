@@ -35,6 +35,8 @@
 
 <img src="https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/5d00e811-09f6-448c-ad87-5952983d86a6" alt="Screenshot_2024-06-17-19-36-00-274_com example agronect" width="200">
 
+![WhatsApp Image 2024-06-20 at 17 48 04_00cf9215](https://github.com/agronect-team/bangkit-mobile-development/assets/127836015/044826bc-babe-4a77-a184-98a8a8379fad)
+
 
 
 
